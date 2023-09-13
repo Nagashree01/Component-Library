@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 
 export const Home = () => {
   const navigate = useNavigate();
@@ -12,7 +12,14 @@ export const Home = () => {
       </div>
       <div className="home-btn">
         <button onClick={() => navigate("/components")}>Get Started</button>
-        <button onClick={() => navigate("/")}>Github</button>
+        <a
+          className="externale-link"
+          href="https://github.com/Nagashree01/component-library"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
+          Github
+        </a>
       </div>
     </div>
   );
