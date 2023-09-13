@@ -1,0 +1,36 @@
+.home-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-self: center;
+    min-height: 100vh;
+}
+
+.home-container .primary-heading{
+    font-size: 4rem;
+}
+
+.home-container .secondary-heading{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.home-container .home-btn{
+    display: flex;
+    gap:1rem;
+}
+
+.home-container .home-btn *{
+    margin: 1rem;
+    background-color: var(--white-color);
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+.home-container .home-btn button:hover{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}

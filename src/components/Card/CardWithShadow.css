@@ -1,0 +1,7 @@
+.card-with-shadow{
+    margin:0.5rem 0;
+    padding: 1.2rem;
+    border: 2px solid black;
+    width: fit-content;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}

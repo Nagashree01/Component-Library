@@ -1,0 +1,85 @@
+.doc-layout{
+    margin-left:10rem;
+}
+
+.component-doc-heading{
+    padding: 1rem 0;
+}
+
+.component-doc-description{
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+.components-container{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+}
+.component-code-container{
+    padding: 1rem 0;
+}
+.alert-component-code{
+    width: 795px;
+     height: 405px;
+    border: 0;
+   
+}
+
+/* avatar */
+.avatar-component-container{
+    display: flex;
+    gap:1rem;
+    align-items: center;
+}
+.avatar-component-code{
+    width: 680px; 
+    height: 308px; 
+    border:0;
+}
+
+/* heading */
+.heading-component-code{
+    width: 680px;
+    height: 223px;
+    border:0;
+   
+}
+/* texts */
+.text-component-code{
+    width: 680px;
+    height: 403px;
+    border:0;
+}
+/* badge */
+.badge-component-code,.card-with-badge-component-code,.card-with-dismiss-component-code{
+    width: 680px;
+    height: 169px; 
+    border:0; 
+}
+
+.icon-badge-component-code{
+    width: 680px; 
+    height: 218px; 
+    border:0;
+}
+.button-component-code{
+    width: 680px; height: 265px; border:0; 
+}
+.icon-button-component-code{
+    width: 458px; height: 253px; border:0;
+}
+
+.floating-badge-component-code{
+    width: 503px; height: 288px; border:0;
+}
+
+.card-with-overlay-text-component-code{
+    width: 680px; height: 241px; border:0
+}
+
+.card-with-text-only-component-code{
+    width: 680px; height: 140px; border:0
+}
+.verticle-card-component-code{
+    width: 680px; height: 230px; border:0
+}

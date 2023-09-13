@@ -1,0 +1,15 @@
+.sidebar{
+    width: 150px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+}
+
+.sidebar *{
+  color: var(--black-color);
+  font-size: 1.2rem;
+  padding: 16px 10px;
+  text-decoration: none;
+  list-style: none;
+}
+

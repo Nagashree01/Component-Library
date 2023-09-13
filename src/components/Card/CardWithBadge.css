@@ -1,0 +1,19 @@
+.card-with-badge-container{
+    margin:0.5rem 0;
+    padding: 1.2rem;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: fit-content;
+}
+
+.badge-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.badge{
+    margin:0;
+    padding: 4px;
+}

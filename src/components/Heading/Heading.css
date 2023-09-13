@@ -1,0 +1,36 @@
+.heading{
+    font-weight: 700;
+}
+
+.heading-xs{
+    font-size: 0.75rem;
+}
+
+.heading-sm{
+    font-size: 0.875rem
+}
+
+.heading-md{
+    font-size: 1rem;
+}
+
+.heading-lg{
+    font-size: 1.125rem;
+}
+
+.heading-xl{
+    font-size: 1.25rem;
+}
+
+.heading-2xl{
+    font-size: 1.75rem;
+}
+
+.heading-3xl{
+    font-size: 2rem;
+}
+
+.heading-4xl{
+    font-size: 3rem;
+}
+

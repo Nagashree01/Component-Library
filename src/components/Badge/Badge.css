@@ -1,0 +1,23 @@
+.badge{
+    background-color: gainsboro;
+    color: black;
+    width: fit-content;
+    padding: 0.5rem;
+    margin:0.5rem;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.badge-error{
+    background-color: rgba(255, 0, 0, 0.4);
+    color: rgb(114, 16, 16);
+}
+
+.badge-success{
+    background-color: rgba(82, 216, 70, 0.4);
+    color: rgb(21, 42, 19);
+}
+
+.badge-new{
+    background-color: rgba(116, 89, 237, 0.4);
+    color: rgb(29, 6, 50);
+}

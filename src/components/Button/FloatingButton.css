@@ -1,0 +1,14 @@
+.floating-btn{
+    display: flex;
+    margin:0.5rem;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,27 @@
+.alert{
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    width: 400px;
+}
+
+.error {
+    background-color: rgba(255, 0, 0, 0.4);
+    color: rgb(114, 16, 16);
+}
+
+.success {
+    background-color: rgba(82, 216, 70, 0.4);
+    color: rgb(21, 42, 19);
+    
+}
+
+.warning {
+    background-color: rgba(214, 203, 38, 0.4);
+    color: rgb(82, 78, 15);
+}
+
+.info {
+    background-color: rgba(7, 96, 213, 0.4);
+    color: rgb(11, 52, 104);
+}
